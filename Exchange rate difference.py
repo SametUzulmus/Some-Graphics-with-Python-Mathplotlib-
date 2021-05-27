@@ -29,10 +29,12 @@ axes[0].set_title("Between 2010-2020 Dollar / TL - Euro / TL",fontsize=13,color=
 axes[0].set_ylabel("Price",fontsize=15,color="black")
 axes[0].set_xlabel("Years",fontsize=15,color="black")
 
-axes[1].set_title("""Proportional changes of dollar and euro-
-among themselves. Between 2010-2020""",fontsize=13,color="black")
+axes[1].set_title("""Proportional changes of dollar and euro-among themselves. Between 2010-2020""",fontsize=13,color="black")
 
 axes[1].set_ylabel("Rate(%)",fontsize=15,color="black")
 axes[1].set_xlabel("Years",fontsize=15,color="black")
 axes[0].legend()
 axes[1].legend()
+
+
+
